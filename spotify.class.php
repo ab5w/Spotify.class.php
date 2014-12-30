@@ -164,7 +164,7 @@ class Spotify {
             return false;
 
         }
-    
+
     }
 
     public function youtube($url) {
